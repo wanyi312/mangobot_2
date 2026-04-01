@@ -130,129 +130,119 @@ const data = {
     // 分类
     filters: [
       {
-        label: 'All Events',
+        label: 'جميع الفعاليات',
         value: 1,
       },
       {
-        label: 'Tech & Expo',
+        label: 'التقنية والمعرض',
         value: 2,
       },
       {
-        label: 'Sport & Luxury',
+        label: 'الرياضة والفخامة',
         value: 3,
       },
       {
-        label: 'Art & Culture',
+        label: 'الفن والثقافة',
         value: 4,
       },
       {
-        label: 'Corporate & Hospitality',
+        label: 'الشركات والضيافة',
         value: 5,
       },
       {
-        label: 'Medical & Health',
+        label: 'الطبي والصحة',
         value: 6,
       },
     ],
     // 文章内容
-    // category 分类
-    // season 季节
-    // location 地点
-    // name 名称
-    // description 描述
-    // role 角色
-    // image 图片
-    // isPinned 是否置顶
-    // tags 标签对应filters过滤项
-    // keysword 关键词
     events: [
       {
-        category: "Tech & Expo",
-        season: "2025 Season",
-        location: "Dubai",
-        name: "GITEX Global",
+        category: 'التقنية والمعرض',
+        season: 'موسم 2025',
+        location: 'دبي',
+        name: 'GITEX Global',
         description:
-          "The world's largest tech show. Mangobot humanoid robots stopped people mid-hall in a room full of the future's most tech-savvy audience.",
-        role: "Brand Showcase",
+          'أكبر معرض تقني في العالم. روبوتات Mangobot البشرية أوقفت الزوار في منتصف القاعة وسط جمهور من أكثر المتخصصين معرفة بالمستقبل.',
+        role: 'عرض العلامة التجارية',
         image: '/config/images/Events-filter-bg.png',
         isPinned: true,
         tags: [1, 2],
         keysword: [],
       },
       {
-        category: "Sport & Luxury",
-        season: "2026 Season",
-        location: "Abu Dhabi",
-        name: "Longines League of Nations™ 2026",
+        category: 'الرياضة والفخامة',
+        season: 'موسم 2026',
+        location: 'أبوظبي',
+        name: 'Longines League of Nations™ 2026',
         description:
-          "The world's most prestigious equestrian competition. Sport, luxury, and humanoid robotics converged for an audience that expects the extraordinary.",
-        role: "Guest Engagement",
+          'أرقى مسابقات الفروسية في العالم. الرياضة، الفخامة، والروبوتات البشرية تجتمع أمام جمهور يتوقع ما هو استثنائي.',
+        role: 'تفاعل الضيوف',
         image: '/config/images/Events-card.png',
         tags: [1, 3],
-        keysword: ['']
+        keysword: [''],
       },
       {
-        category: "Sport & Charity",
-        season: "2026 Season",
-        location: "Abu Dhabi",
-        name: "Cancer Awareness Run",
+        category: 'الرياضة والخيرية',
+        season: 'موسم 2026',
+        location: 'أبوظبي',
+        name: 'Cancer Awareness Run',
         description:
-          "Mangobot robots participated in the Abu Dhabi Cancer Awareness Run, cheering runners and showing how humanoids can play a role in community moments that matter.",
-        role: "Community Engagement",
+          'شاركت روبوتات Mangobot في سباق التوعية بسرطان أبوظبي، لتشجيع العدائين وإظهار كيف يمكن للروبوتات البشرية أن تلعب دورًا في اللحظات المجتمعية الهامة.',
+        role: 'المشاركة المجتمعية',
         image: '/config/images/Events-card-1.png',
         tags: [1],
-        keysword: ['']
+        keysword: [''],
       },
       {
-        category: "Art & Culture",
-        season: "2026 Season",
-        location: "Dubai",
-        name: "TODA — Immersive Art Activations",
+        category: 'الفن والثقافة',
+        season: 'موسم 2026',
+        location: 'دبي',
+        name: 'TODA — Immersive Art Activations',
         description:
-          "Dubai's premier immersive art venue. Humanoid robots are deployed at multiple TODA events, where 360-degree projection art meets humanoid robotics performance.",
-        role: "Guest Engagement",
+          'أبرز أماكن الفن الغامر في دبي. تم نشر روبوتات بشرية في عدة فعاليات لـ TODA، حيث يلتقي الفن بتقنية العرض 360 درجة مع أداء الروبوتات البشرية.',
+        role: 'تفاعل الضيوف',
         image: '/config/images/Events-card-2.png',
         tags: [1, 4],
-        keysword: ['']
+        keysword: [''],
       },
       {
-        category: "Education",
-        season: "2026 Season",
-        location: "Dubai",
-        name: "GEMS — SRI School",
+        category: 'التعليم',
+        season: 'موسم 2026',
+        location: 'دبي',
+        name: 'GEMS — SRI School',
         description:
-          "Mangobot brought humanoid robotics into education at GEMS SRI, inspiring the next generation with a live humanoid robotics demonstration.",
-        role: "Educational Showcase",
+          'قدمت Mangobot الروبوتات البشرية في التعليم بمدرسة GEMS SRI، لإلهام الجيل القادم من خلال عرض حي للروبوتات البشرية.',
+        role: 'عرض تعليمي',
         image: '/config/images/Events-card-3.png',
         tags: [1],
-        keysword: ['']
+        keysword: [''],
       },
       {
-        category: "Medical & Health",
-        season: "2026 Season",
-        location: "Dubai",
-        name: "Intco Medical — World Health Expo",
+        category: 'الطبي والصحة',
+        season: 'موسم 2026',
+        location: 'دبي',
+        name: 'Intco Medical — World Health Expo',
         description:
-          "Intco Medical brought X2 Ultra to the World Health Expo, which became the centrepiece of their booth, drawing attention across a competitive floor.",
-        role: "Exhibition Showcase",
+          'أحضرت Intco Medical روبوت X2 Ultra إلى معرض الصحة العالمي، ليصبح القطعة المركزية في جناحها ويجذب الانتباه في أرض معرض تنافسية.',
+        role: 'عرض في المعرض',
         image: '/config/images/Events-card-4.png',
         tags: [1, 6],
-        keysword: ['']
+        keysword: [''],
       },
       {
-        category: "Brand & Social",
-        season: "2026 Season",
-        location: "Dubai",
-        name: "Fred's Coffee Party",
+        category: 'العلامة التجارية والاجتماعي',
+        season: 'موسم 2026',
+        location: 'دبي',
+        name: 'Fred\'s Coffee Party',
         description:
-          "Even intimate brand gatherings are transformed by Mangobot's presence. A conversation-starter, content creator, and the life of the party.",
-        role: "Brand Activation",
+          'حتى التجمعات الصغيرة للعلامات التجارية تتحول بوجود Mangobot. بداية محادثات، صانع محتوى، وروح الحفلة.',
+        role: 'تفعيل العلامة التجارية',
         image: '/config/images/Events-card-5.png',
         tags: [1],
-        keysword: ['']
-      }
-    ]
-  }
+        keysword: [''],
+      },
+    ],
+  },
 }
 
 const language = localStorage.getItem('language') || 'en';
