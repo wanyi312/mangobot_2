@@ -60,7 +60,7 @@ const data = {
         description:
           "The world's most prestigious equestrian competition. Sport, luxury, and humanoid robotics converged for an audience that expects the extraordinary.",
         role: "Guest Engagement",
-        image: '/config/images/Events-card-2.png ',
+        image: '/config/images/event-01.jpg ',
         tags: [1, 3],
         keysword: ['']
       },
@@ -72,7 +72,7 @@ const data = {
         description:
           "Mangobot robots participated in the Abu Dhabi Cancer Awareness Run, cheering runners and showing how humanoids can play a role in community moments that matter.",
         role: "Community Engagement",
-        image: '/config/images/Events-card-1.png',
+        image: '/config/images/event-02.jpg',
         tags: [1],
         keysword: ['']
       },
@@ -84,7 +84,7 @@ const data = {
         description:
           "Dubai's premier immersive art venue. Humanoid robots are deployed at multiple TODA events, where 360-degree projection art meets humanoid robotics performance.",
         role: "Guest Engagement",
-        image: '/config/images/Events-card.png',
+        image: '/config/images/event-06.jpg',
         tags: [1, 4],
         keysword: ['']
       },
@@ -96,7 +96,7 @@ const data = {
         description:
           "Mangobot brought humanoid robotics into education at GEMS SRI, inspiring the next generation with a live humanoid robotics demonstration.",
         role: "Educational Showcase",
-        image: '/config/images/Events-card-5.png',
+        image: '/config/images/event-03.jpg',
         tags: [1],
         keysword: ['']
       },
@@ -108,7 +108,7 @@ const data = {
         description:
           "Intco Medical brought X2 Ultra to the World Health Expo, which became the centrepiece of their booth, drawing attention across a competitive floor.",
         role: "Exhibition Showcase",
-        image: '/config/images/Events-card-4.png',
+        image: '/config/images/event-04.jpg',
         tags: [1, 6],
         keysword: ['']
       },
@@ -120,7 +120,7 @@ const data = {
         description:
           "Even intimate brand gatherings are transformed by Mangobot's presence. A conversation-starter, content creator, and the life of the party.",
         role: "Brand Activation",
-        image: '/config/images/Events-card-3.png',
+        image: '/config/images/event-05.jpg',
         tags: [1],
         keysword: ['']
       }
