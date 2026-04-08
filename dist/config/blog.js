@@ -42,7 +42,7 @@ const data = {
             {
                 title: 'Mangobot at GITEX GLOBAL 2025:',
                 subtitle: 'Meet the Future of Robotics',
-                description: 'The X2 Ultra holds a permanent, high-visibility position on The Arsenale\'s floor, a living centerpiece that draws customers in and keeps them engaged.',
+                description: 'The countdown has begun for one of the world’s most influential technology events, GITEX GLOBAL 2025.',
                 image: '',
                 date: '2025-10-06',
                 fileName: 'test',
@@ -138,7 +138,7 @@ const data = {
             {
                 title: 'Mangobot في GITEX GLOBAL 2025:',
                 subtitle: 'لقاء مستقبل الروبوتات',
-                description: 'يحتل X2 Ultra موقعًا دائمًا وبارزًا في صالة The Arsenale، كقطعة مركزية حية تجذب العملاء وتبقيهم منشغلين.',
+                description: 'بدأ العد التنازلي لواحد من أكثر الأحداث التكنولوجية تأثيرًا في العالم، GITEX GLOBAL 2025.',
                 image: '',
                 date: '2025-10-06',
                 fileName: 'test',

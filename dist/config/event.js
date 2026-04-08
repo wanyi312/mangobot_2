@@ -56,11 +56,11 @@ const data = {
         category: "Sport & Luxury",
         season: "2026 Season",
         location: "Abu Dhabi",
-        name: "Longines League of Nations™ 2026",
+        name: "Abu Dhabi Equestrian Club - Longines League of Nations 2026",
         description:
           "The world's most prestigious equestrian competition. Sport, luxury, and humanoid robotics converged for an audience that expects the extraordinary.",
         role: "Guest Engagement",
-        image: '/config/images/Events-card.png',
+        image: '/config/images/Events-card-2.png ',
         tags: [1, 3],
         keysword: ['']
       },
@@ -84,7 +84,7 @@ const data = {
         description:
           "Dubai's premier immersive art venue. Humanoid robots are deployed at multiple TODA events, where 360-degree projection art meets humanoid robotics performance.",
         role: "Guest Engagement",
-        image: '/config/images/Events-card-2.png',
+        image: '/config/images/Events-card.png',
         tags: [1, 4],
         keysword: ['']
       },
@@ -96,7 +96,7 @@ const data = {
         description:
           "Mangobot brought humanoid robotics into education at GEMS SRI, inspiring the next generation with a live humanoid robotics demonstration.",
         role: "Educational Showcase",
-        image: '/config/images/Events-card-3.png',
+        image: '/config/images/Events-card-5.png',
         tags: [1],
         keysword: ['']
       },
@@ -120,7 +120,7 @@ const data = {
         description:
           "Even intimate brand gatherings are transformed by Mangobot's presence. A conversation-starter, content creator, and the life of the party.",
         role: "Brand Activation",
-        image: '/config/images/Events-card-5.png',
+        image: '/config/images/Events-card-3.png',
         tags: [1],
         keysword: ['']
       }
@@ -173,11 +173,11 @@ const data = {
         category: 'الرياضة والفخامة',
         season: 'موسم 2026',
         location: 'أبوظبي',
-        name: 'Longines League of Nations™ 2026',
+        name: 'Abu Dhabi Equestrian Club - Longines League of Nations 2026',
         description:
           'أرقى مسابقات الفروسية في العالم. الرياضة، الفخامة، والروبوتات البشرية تجتمع أمام جمهور يتوقع ما هو استثنائي.',
         role: 'تفاعل الضيوف',
-        image: '/config/images/Events-card.png',
+        image: '/config/images/Events-card-2.png ',
         tags: [1, 3],
         keysword: [''],
       },
@@ -201,7 +201,7 @@ const data = {
         description:
           'أبرز أماكن الفن الغامر في دبي. تم نشر روبوتات بشرية في عدة فعاليات لـ TODA، حيث يلتقي الفن بتقنية العرض 360 درجة مع أداء الروبوتات البشرية.',
         role: 'تفاعل الضيوف',
-        image: '/config/images/Events-card-2.png',
+        image: '/config/images/Events-card.png',
         tags: [1, 4],
         keysword: [''],
       },
@@ -213,7 +213,7 @@ const data = {
         description:
           'قدمت Mangobot الروبوتات البشرية في التعليم بمدرسة GEMS SRI، لإلهام الجيل القادم من خلال عرض حي للروبوتات البشرية.',
         role: 'عرض تعليمي',
-        image: '/config/images/Events-card-3.png',
+        image: '/config/images/Events-card-5.png',
         tags: [1],
         keysword: [''],
       },
@@ -237,7 +237,7 @@ const data = {
         description:
           'حتى التجمعات الصغيرة للعلامات التجارية تتحول بوجود Mangobot. بداية محادثات، صانع محتوى، وروح الحفلة.',
         role: 'تفعيل العلامة التجارية',
-        image: '/config/images/Events-card-5.png',
+        image: '/config/images/Events-card-3.png',
         tags: [1],
         keysword: [''],
       },
