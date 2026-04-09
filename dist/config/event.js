@@ -27,6 +27,8 @@ const data = {
         value: 6,
       },
     ],
+    /** Events 页 Hero 背景视频（MP4 等）；替换为你的正式地址 */
+    heroVideo: 'https://media.mangobot.org/Events-bg-hero.mp4',
     // 文章内容
     // category 分类
     // season 季节
@@ -154,6 +156,7 @@ const data = {
         value: 6,
       },
     ],
+    heroVideo: 'https://media.mangobot.org/Events-bg-hero.mp4',
     // 文章内容
     events: [
       {
