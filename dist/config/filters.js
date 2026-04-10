@@ -4,27 +4,68 @@ const data = {
         filters: [
             {
                 label: 'A2',
-                url : '/product/a2'
+                url : '/product/a2',
+                keysword: []
             },
             {
                 label: 'X2',
-                url : '/product/x2'
+                url : '/product/x2',
+                keysword: []
             },
             {
                 label: 'D1 ultra',
-                url : '/product/d1'
+                url : '/product/d1',
+                keysword: []
             },
             {
                 label: 'D1 max',
-                url : '/product/d1max'
+                url : '/product/d1max',
+                keysword: []
             },
             {
                 label: 'D1 pro max',
-                url : '/product/d1promax'
+                url : '/product/d1promax',
+                keysword: []
             },
             {
                 label: 'G1',
-                url : '/product/g1'
+                url : '/product/g1',
+                keysword: []
+            },
+            {
+                label : 'Home',
+                url : '/',
+                keysword: []
+            },
+            {
+                label : 'Blog',
+                url : '/blog',
+                keysword: []
+            },
+            {
+                label : 'Events',
+                url : '/robotics',
+                keysword: ['rent']
+            },
+            {
+                label : 'Partnerships',
+                url : '/partnerships',
+                keysword: ['rent']
+            },
+            {
+                label : 'About',
+                url : '/aboutus',
+                keysword: []
+            },
+            {
+                label : 'Contact',
+                url : '/contactus',
+                keysword: ['rent']
+            },
+            {
+                label : 'Products',
+                url : '/products',
+                keysword: []
             }
         ]
     },
