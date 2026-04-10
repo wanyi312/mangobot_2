@@ -52,7 +52,7 @@ const data = {
         image: '/config/images/Events-filter-bg.png',
         isPinned: true,
         tags: [1, 2],
-        keysword: [],
+        keysword: ["rent"],
       },
       {
         category: "Sport & Luxury",
@@ -64,7 +64,7 @@ const data = {
         role: "Guest Engagement",
         image: '/config/images/event-01.jpg ',
         tags: [1, 3],
-        keysword: ['']
+        keysword: ["rent"]
       },
       {
         category: "Sport & Charity",
@@ -76,7 +76,7 @@ const data = {
         role: "Community Engagement",
         image: '/config/images/event-02.jpg',
         tags: [1],
-        keysword: ['']
+        keysword: ["rent"]
       },
       {
         category: "Art & Culture",
@@ -88,7 +88,7 @@ const data = {
         role: "Guest Engagement",
         image: '/config/images/event-06.jpg',
         tags: [1, 4],
-        keysword: ['']
+        keysword: ["rent"]
       },
       {
         category: "Education",
@@ -100,7 +100,7 @@ const data = {
         role: "Educational Showcase",
         image: '/config/images/event-03.jpg',
         tags: [1],
-        keysword: ['']
+        keysword: ["rent"]
       },
       {
         category: "Medical & Health",
@@ -112,7 +112,7 @@ const data = {
         role: "Exhibition Showcase",
         image: '/config/images/event-04.jpg',
         tags: [1, 6],
-        keysword: ['']
+        keysword: ["rent"]
       },
       {
         category: "Brand & Social",
@@ -124,7 +124,7 @@ const data = {
         role: "Brand Activation",
         image: '/config/images/event-05.jpg',
         tags: [1],
-        keysword: ['']
+        keysword: ["rent"]
       }
     ]
   },
