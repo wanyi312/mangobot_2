@@ -40,6 +40,7 @@ const data = {
     // isPinned 是否置顶
     // tags 标签对应filters过滤项
     // keysword 关键词
+    // link 链接
     events: [
       {
         category: "Tech & Expo",
@@ -64,7 +65,8 @@ const data = {
         role: "Guest Engagement",
         image: '/config/images/event-01.jpg ',
         tags: [1, 3],
-        keysword: ['2026 Season','rent']
+        keysword: ['2026 Season', 'rent'],
+        link: 'https://youtube.com/shorts/LIocou1Nb3w?si=yTqPoRdUehMU_lWC',
       },
       {
         category: "Sport & Charity",
@@ -76,7 +78,8 @@ const data = {
         role: "Community Engagement",
         image: '/config/images/event-02.jpg',
         tags: [1],
-        keysword: ['rent']
+        keysword: ['rent'],
+        link: 'https://youtube.com/shorts/RGyipBBoU04?si=jekkRx3zuPayG8cw',
       },
       {
         category: "Art & Culture",
@@ -88,7 +91,8 @@ const data = {
         role: "Guest Engagement",
         image: '/config/images/event-06.jpg',
         tags: [1, 4],
-        keysword: ['rent']
+        keysword: ['rent'],
+        link: 'https://www.youtube.com/watch?v=4fMmY7Bs0_g',
       },
       {
         category: "Education",
@@ -100,7 +104,8 @@ const data = {
         role: "Educational Showcase",
         image: '/config/images/event-03.jpg',
         tags: [1],
-        keysword: ['rent']
+        keysword: ['rent'],
+        link: 'https://youtube.com/shorts/xJ5nlGiaC_Y?si=nAct-4i56WGUZQMt',
       },
       {
         category: "Medical & Health",
@@ -112,7 +117,8 @@ const data = {
         role: "Exhibition Showcase",
         image: '/config/images/event-04.jpg',
         tags: [1, 6],
-        keysword: ['Intco Medical — World Health Expo','rent']
+        keysword: ['Intco Medical — World Health Expo', 'rent'],
+        link:'https://www.youtube.com/shorts/q7_rjKw2lkU'
       },
       {
         category: "Brand & Social",
@@ -124,7 +130,8 @@ const data = {
         role: "Brand Activation",
         image: '/config/images/event-05.jpg',
         tags: [1],
-        keysword: ['rent']
+        keysword: ['rent'],
+        link:'https://youtube.com/shorts/ubDAqg3S5OY?si=2DWqipMXFtAucnKM'
       }
     ]
   },
@@ -183,6 +190,7 @@ const data = {
         image: '/config/images/Events-card-2.png ',
         tags: [1, 3],
         keysword: [''],
+        link: 'https://youtube.com/shorts/LIocou1Nb3w?si=yTqPoRdUehMU_lWC',
       },
       {
         category: 'الرياضة والخيرية',
@@ -195,6 +203,7 @@ const data = {
         image: '/config/images/Events-card-1.png',
         tags: [1],
         keysword: [''],
+        link: 'https://youtube.com/shorts/RGyipBBoU04?si=jekkRx3zuPayG8cw',
       },
       {
         category: 'الفن والثقافة',
@@ -207,6 +216,7 @@ const data = {
         image: '/config/images/Events-card.png',
         tags: [1, 4],
         keysword: [''],
+        link: 'https://www.youtube.com/watch?v=4fMmY7Bs0_g',
       },
       {
         category: 'التعليم',
@@ -219,6 +229,7 @@ const data = {
         image: '/config/images/Events-card-5.png',
         tags: [1],
         keysword: [''],
+        link: 'https://youtube.com/shorts/xJ5nlGiaC_Y?si=nAct-4i56WGUZQMt',
       },
       {
         category: 'الطبي والصحة',
@@ -231,6 +242,7 @@ const data = {
         image: '/config/images/Events-card-4.png',
         tags: [1, 6],
         keysword: [''],
+        link:'https://www.youtube.com/shorts/q7_rjKw2lkU'
       },
       {
         category: 'العلامة التجارية والاجتماعي',
@@ -243,6 +255,7 @@ const data = {
         image: '/config/images/Events-card-3.png',
         tags: [1],
         keysword: [''],
+        link:'https://youtube.com/shorts/ubDAqg3S5OY?si=2DWqipMXFtAucnKM'
       },
     ],
   },
