@@ -45,7 +45,7 @@ const data = {
                 description: 'The countdown has begun for one of the world’s most influential technology events, GITEX GLOBAL 2025.',
                 image: '',
                 date: '2025-10-06',
-                fileName: 'GITEX',
+                fileName: 'Mangobot-at-GITEX-GLOBAL',
                 isPinned: true,
                 category: 'X2 Ultra',
                 tags: [],

@@ -44,7 +44,7 @@ const data = {
             },
             {
                 label : 'Events',
-                url : '/robotics',
+                url : '/events',
                 keysword: ['rent']
             },
             {
