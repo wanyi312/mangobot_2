@@ -1,5 +1,3 @@
-## How Mangobot's Humanoid Robots Are Changing Events in the UAE
-
 The UAE events industry operates at a tier where originality is a baseline expectation. Clients have seen elaborate production values, cutting-edge audiovisual, and celebrity appearances. They are looking for what comes next.
 
 An increasing number of event companies, brands, and organisations across Dubai and the GCC have found that answer with Mangobot. Through our humanoid robot rental service, we give event professionals and end clients access to the most advanced embodied humanoids available in the region, deployed end-to-end by Mangobot's own team, with zero technical burden on your side.
@@ -35,8 +33,6 @@ The most common concern we hear from event professionals is operational complexi
 Mangobot's humanoid robots have been deployed across a wide range of events in the UAE, spanning sport, luxury, charity, immersive art, education, healthcare, and brand activations. Through channel partnerships with leading venues including the Theatre of Digital Art (TODA) and TheArsenale, Mangobot has established a presence at some of Dubai's most prestigious locations.
 
 See our past deployments and event highlights with our channel partners [here](/partnerships#partner-toda)
-
-> *For developer: clicking the partnership link takes users directly to the TODA section.*
 
 ## Why Act Now
 
