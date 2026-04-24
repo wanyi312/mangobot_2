@@ -3,12 +3,12 @@ const data = {
     en : {
         filters: [
             {
-                label: 'A2',
+                label: 'A2 ultra',
                 url : '/product/a2',
                 keysword: []
             },
             {
-                label: 'X2',
+                label: 'X2 ultra',
                 url : '/product/x2',
                 keysword: []
             },
@@ -23,12 +23,12 @@ const data = {
                 keysword: []
             },
             {
-                label: 'D1 pro max',
+                label: 'D1 max pro',
                 url : '/product/d1promax',
                 keysword: []
             },
             {
-                label: 'G1',
+                label: 'G1 ultra',
                 url : '/product/g1',
                 keysword: []
             },
