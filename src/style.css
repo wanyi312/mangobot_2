@@ -1,0 +1,41 @@
+@font-face {
+  font-family: "Syne";
+  src: url("./assets/font/Syne-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url("./assets/font/CormorantGaramond-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("./assets/font/Manrope-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: "Montserrat"; /* 给你的字体起个名字 */
+  src: url("./assets/font/Montserrat-VariableFont_wght.ttf"); /* 指向 .ttf 文件的路径 */
+}
+
+@font-face {
+  font-family: "Cormorant";
+  src: url("./assets/font/Cormorant-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: "Geist";
+  src: url("./assets/font/Geist-VariableFont_wght.ttf");
+}
+
+/* 全局隐藏页面滚动条，仍可滚动 */
+html,
+body {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE、旧版 Edge */
+}
+
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  display: none; /* Chrome、Safari、Opera */
+}
